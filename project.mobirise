@@ -25,9 +25,10 @@
     "noImageResize": "",
     "versionFirst": "4.7.1",
     "uniqCompNum": 8,
-    "versionPublish": "4.7.1",
+    "versionPublish": "4.8.10",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "index.html": {
@@ -60,8 +61,8 @@
             "overlayColor": "#264a54",
             "overlayOpacity": "0.5"
           },
-          "title": "11만권의 사내도서관",
-          "text": "1인기업에서부터 대기업까지, &nbsp;11만권의 사내도서관을 무료로 도입할 수 있습니다.&nbsp;<br>국민도서관 책꽂이가 선사하는 LaaS (Library as a Service)를 도입하세요!",
+          "title": "14만5천권의 사내도서관",
+          "text": "1인기업에서부터 대기업까지, &nbsp;14만5천권의 사내도서관을 무료로 도입할 수 있습니다.&nbsp;<br>국민도서관 책꽂이가 선사하는 LaaS (Library as a Service)를 도입하세요!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
             "Theme"
@@ -138,7 +139,7 @@
           },
           "title1": "막강한 장서수",
           "subtitle1": "Awesome",
-          "text1": "전분야에 걸쳐 11만 권의 장서를 자랑하고 있습니다. 경제경영 분야만 해도 1만5천 권이 넘는 책들이 준비되어 있습니다. 그리고 계속 장서수는 늘어납니다.<br>이 정도 규모의 장서를 우리 회사의 도서관처럼 무료로 사용할 수 있습니다.",
+          "text1": "전분야에 걸쳐 총 14만5천권의 장서를 자랑하고 있습니다. 경제경영 분야만 해도 1만5천 권이 넘는 책들이 준비되어 있습니다. 그리고 계속 장서수는 늘어납니다.<br>이 정도 규모의 장서를 우리 회사의 도서관처럼 무료로 사용할 수 있습니다.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -557,7 +558,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "경기도 고양시 일산동구 강석로 113 일산농협마두역지점 3층<br>국민도서관 책꽂이 http://www.bookoob.co.kr<br>031-906-1587 clients@bookoob.co.kr<br>Copyright (c) (주) 보리떡광주리",
+          "text": "경기도 고양시 일산동구 강석로 113 일산농협마두역지점 3층<br>국민도서관 책꽂이 https://www.bookoob.co.kr<br>031-906-1587 clients@bookoob.co.kr<br>Copyright (c) (주) 보리떡광주리",
           "_tags": [
             "Theme"
           ],
