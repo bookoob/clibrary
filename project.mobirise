@@ -61,8 +61,8 @@
             "overlayColor": "#264a54",
             "overlayOpacity": "0.5"
           },
-          "title": "14만5천권의 사내도서관",
-          "text": "1인기업에서부터 대기업까지, &nbsp;14만5천권의 사내도서관을 무료로 도입할 수 있습니다.&nbsp;<br>국민도서관 책꽂이가 선사하는 LaaS (Library as a Service)를 도입하세요!",
+          "title": "17만2천권의 사내도서관",
+          "text": "1인기업에서부터 대기업까지, &nbsp;17만2천여권의 사내도서관을 무료로 도입할 수 있습니다.&nbsp;<br>국민도서관 책꽂이가 선사하는 LaaS (Library as a Service)를 도입하세요!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"https://mobirise.com\">Download for Windows</a><a data-app-btn=\"true\" class=\"btn btn-md btn-white\" href=\"https://mobirise.com\">Download for Mac</a>",
           "_tags": [
             "Theme"
@@ -139,7 +139,7 @@
           },
           "title1": "막강한 장서수",
           "subtitle1": "Awesome",
-          "text1": "전분야에 걸쳐 총 14만5천권의 장서를 자랑하고 있습니다. 경제경영 분야만 해도 1만5천 권이 넘는 책들이 준비되어 있습니다. 그리고 계속 장서수는 늘어납니다.<br>이 정도 규모의 장서를 우리 회사의 도서관처럼 무료로 사용할 수 있습니다.",
+          "text1": "전분야에 걸쳐 총 17만2천여권의 장서를 자랑하고 있습니다. 경제경영 분야만 해도 2만2천5백 권이 넘는 책들이 준비되어 있습니다. 그리고 계속 장서수는 늘어납니다.<br>이 정도 규모의 장서를 우리 회사의 도서관처럼 무료로 사용할 수 있습니다.",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "media2": {
             "iconFont": {
@@ -434,7 +434,7 @@
           "list1": "<li>결제는 쿠폰으로 간단하게 처리됩니다.</li><br><li>최신간을 포함 1회 대여시 최대 15권을 2개월간 대여할 수 있으며, 30일을 연장하고자 할 경우 임직원은 자비로 연장수수료 3000원을 결제합니다.</li><br><li>배송 및 반납은 모두 택배로 처리됩니다. 훼손 및 보상은 대여 당사자가 책임지게 됩니다.</li>",
           "list2": "<li>결제는 쿠폰으로 간단하게 처리됩니다.</li><br><li>최신간을 포함 1회 대여시 최대 15권을 2개월간 대여할 수 있으며, 30일을 연장하고자 할 경우 임직원은 자비로 연장수수료 3000원을 결제합니다.</li><br><li>배송 및 반납은 모두 택배로 처리됩니다. 훼손 및 보상은 대여 당사자가 책임지게 됩니다.</li>",
           "list3": "<li>임직원의 대여현황은 실시간으로 확인할 수 있습니다.</li><br><li>임직원의 대여에 대해서는 권수까지만 확인가능하며, 어떤 책을 대여했는지는 개인정보로 보호합니다.</li>",
-          "list4": "<li>매주 새롭게 입고된 책들 중에서 주목할만한 책에 대한 안내메일을 발송합니다.</li><br><li>기획성 도서목록을 작성하에 메일로 발송합니다.</li>",
+          "list4": "<li>매주 새롭게 입고된 책들 중에서 주목할만한 책에 대한 안내메일을 발송합니다.</li><br><li>기획성 도서목록을 작성하여 메일로 발송합니다.</li>",
           "list5": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
           "list6": "<li>Block with media and \"typed\" text effect.</li><br><li>Enter in any string, and watch it type at the speed you have set</li><br><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>",
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Get free trial</a>",
@@ -446,14 +446,17 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/card.png",
-              "width": 600
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x503.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "width": 600,
               "link": "",
               "alt": "",
